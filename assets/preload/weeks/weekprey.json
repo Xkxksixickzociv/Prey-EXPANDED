@@ -1,0 +1,68 @@
+{
+	"storyName": "Final Showdown on Stardust Speedway!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stardust",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Prey",
+			"future",
+			[
+				106,
+				0,
+				253
+			]
+		],
+		[
+			"Prey-Good-Future",
+			"gfuture",
+			[
+				106,
+				0,
+				253
+			]
+		],
+		[
+			"Prey-Zeroh",
+			"present",
+			[
+				106,
+				0,
+				253
+			]
+		],
+		[
+			"Prey-P",
+			"past",
+			[
+				106,
+				0,
+				253
+			]
+		],
+		[
+			"Death-Meal",
+			"S1",
+			[
+				106,
+				0,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "weekprey"
+}
