@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-14,
+				35
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "SuperSonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				34
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "SuperSonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				84
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "SuperSonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				36
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "SuperSonic right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				35
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "SuperSonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 10,
+			"name": "",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FlyingSuper",
+	"position": [
+		590,
+		447
+	],
+	"healthicon": "icon-sonic-super",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		235,
+		0
+	],
+	"camera_position": [
+		200,
+		-454
+	],
+	"sing_duration": 4,
+	"scale": 5.70000000000001
+}

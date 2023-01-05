@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-14,
+				35
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "SuperSonic idle"
+		},
+		{
+			"offsets": [
+				-10,
+				34
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SuperSonic down"
+		},
+		{
+			"offsets": [
+				-29,
+				84
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SuperSonic up"
+		},
+		{
+			"offsets": [
+				-8,
+				36
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SuperSonic right"
+		},
+		{
+			"offsets": [
+				-7,
+				35
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SuperSonic left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SSonic_LookingUp",
+	"position": [
+		590,
+		447
+	],
+	"healthicon": "icon-sonic-super",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		235,
+		0
+	],
+	"camera_position": [
+		30,
+		-114
+	],
+	"sing_duration": 4,
+	"scale": 5.70000000000001
+}
