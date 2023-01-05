@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sky.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="3793" height="718" frameX="-386" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0001" x="3793" y="0" width="3797" height="718" frameX="-348" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0002" x="0" y="718" width="3802" height="718" frameX="-309" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0003" x="3802" y="718" width="3807" height="718" frameX="-271" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0004" x="0" y="1436" width="3812" height="718" frameX="-232" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0005" x="3812" y="1436" width="3817" height="718" frameX="-193" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0006" x="0" y="2154" width="3821" height="718" frameX="-155" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0007" x="3821" y="2154" width="3826" height="718" frameX="-116" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0008" x="0" y="2872" width="3830" height="718" frameX="-78" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0009" x="3830" y="2872" width="3835" height="718" frameX="-39" frameY="0" frameWidth="4179" frameHeight="718"/>
+	<SubTexture name="Idle0010" x="0" y="3590" width="3840" height="718" frameX="0" frameY="0" frameWidth="4179" frameHeight="718"/>
+</TextureAtlas>
